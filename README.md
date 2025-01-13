@@ -23,7 +23,6 @@ The following libraries and packages are required to run this project:
 
 Python 3.7 or later
 lightgbm: For the LGBMClassifier (Light Gradient Boosting Machine)
-optuna: For hyperparameter optimization using TPESampler
 sklearn: For machine learning utilities like model evaluation, classification, and data preprocessing
 pandas: For data manipulation and analysis
 numpy: For numerical computations
