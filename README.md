@@ -32,10 +32,10 @@ The data contains both numerical and categorical features. It is important to pr
 
 # Steps:
 Label Encoding: Convert categorical features to numerical values using LabelEncoder from scikit-learn.
-Handling Imbalanced Classes: The dataset is likely to be imbalanced (more non-default than default), so class weights are computed using compute_class_weight to help the model handle this imbalance.
+Handling Imbalanced Classes: The dataset is imbalanced (more non-default than default), i computed class weight using compute_class_weight to help the model handle this imbalance.
 
 # Modeling
-For this challenge, the LGBMClassifier (Light Gradient Boosting Machine) was chosen due to its high performance on structured/tabular data. 
+For this challenge,i chose to use  the LGBMClassifier (Light Gradient Boosting Machine)  due to its high performance on structured/tabular data. 
 
 # Steps:
 Cross-validation: Utilize Stratified K-Fold (skfold) for cross-validation to ensure balanced class distribution in each fold.
