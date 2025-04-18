@@ -98,5 +98,5 @@ The model's performance metrics (Accuracy, F1 Score, and Classification Report) 
 # 📬 Contacts
 For questions or feedback, feel free to open an issue or contact the repository owner.
 
-- **Author**: Sharon Kamau
+- **Project Lead**: Sharon Kamau
 - **Email**: [njerisharon611@gmail.com](njerisharon611@gmail.com)
