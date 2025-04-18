@@ -1,5 +1,12 @@
 # African Credit Scoring Challenge - Predicting Loan Default Probability
 
+The African Credit Scoring Challenge focuses on predicting the probability of loan default based on customer and loan-related features. The goal is to develop a machine learning model that can predict whether a loan will default or not, using historical data of borrowers and their loan details. 
+
+This challenge involves preprocessing a dataset containing both numerical and categorical features such as loan amount, loan type, customer status, and repayment history. The model is evaluated on its ability to correctly predict loan defaults, which is crucial for lenders to assess the risk of granting loans to potential customers.
+
+By addressing the imbalance in the target variable (default vs. non-default), the project aims to create a robust model for predicting loan defaults in African markets, where credit scoring data is often scarce or incomplete.
+
+
 
 # ⚠️ Disclaimer
 All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual.
