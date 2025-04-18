@@ -6,13 +6,10 @@ This challenge involves preprocessing a dataset containing both numerical and ca
 
 By addressing the imbalance in the target variable (default vs. non-default), the project aims to create a robust model for predicting loan defaults in African markets, where credit scoring data is often scarce or incomplete.
 
-
+![credit](https://media.istockphoto.com/id/1142099845/photo/businessman-giving-money-south-korean-won-bills-to-his-partner-at-the-desk.jpg?s=612x612&w=0&k=20&c=L9v62yJRRQSZvDVOiwRLqKafNsamYM3FJ34GLMb42e0=)
 
 # ⚠️ Disclaimer
 All datasets, information, and reports within this repository are fictional and created solely for illustrative purposes to showcase advanced predictive machine learning techniques. They do not include any real proprietary, confidential, or sensitive information related to any company, organization, or individual.
-
-![credit](https://media.istockphoto.com/id/1142099845/photo/businessman-giving-money-south-korean-won-bills-to-his-partner-at-the-desk.jpg?s=612x612&w=0&k=20&c=L9v62yJRRQSZvDVOiwRLqKafNsamYM3FJ34GLMb42e0=)
-
 ## Table of Contents
 1. [Objective](#objective)
 2. [Problem Statement](#problem-statement)
